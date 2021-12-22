@@ -1,1 +1,7 @@
-Replace this with a list of your favorite things.
+
+1. Mintia
+2. Hameron
+3. Apple  
+   * Mobile
+   * PC
+  
